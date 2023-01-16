@@ -13,6 +13,7 @@
 [![image](https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beyza-erfidan/)
 [![image](https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/beyzerf/)
 [![image](https://img.shields.io/badge/Gmail-ff69b4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:beyzaerfidan@gmail.com)
+[![image](https://img.shields.io/badge/Medium-ff69b4?style=for-the-badge&logo=medium&logoColor=white)](https://www.medium/@beyzaerfidan)
   
 </div>
 
@@ -38,8 +39,7 @@
 </p>
 
 <p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=beyzaerf&count_private=true&show_icons=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beyzaerf" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=beyzaerf&show_icons=true" />
 </p>
 
 <p align= "center">

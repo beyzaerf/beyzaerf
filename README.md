@@ -42,6 +42,8 @@
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=beyzaerf&show_icons=true" />
 </p>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=beyzaerf&color=ff69b4&style=for-the-badge" alt="beyzaerf" /> </p>
+
 <p align= "center">
   <a href="https://emoji.gg/emoji/5349-hellokittybyebye"><img src="https://cdn3.emoji.gg/emojis/5349-hellokittybyebye.png" width="128px" height="128px" alt="HelloKittyByeBye"></a>
 </p>
